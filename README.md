@@ -12,10 +12,13 @@ Test set:  http://www.pjreddie.com/media/files/mnist_test.csv
 
 After running the gui.py file you'll see the window below: 
 
-![alt tag](https://github.com/PApalkov/Neural_Network/blob/master/Example/Example_1.png)
-
-![alt tag](https://github.com/PApalkov/Neural_Network/blob/master/Example/Example_2.png)
-
+<img src="https://github.com/PApalkov/Neural_Network/blob/master/Example/Example_1.png" width="350">
+<img src="https://github.com/PApalkov/Neural_Network/blob/master/Example/Example_2.png" width="350">
 
 So, you should write a digit at the center of the panel and the program will 
 try to recognize it. 
+
+## Built With
+* PIL - Python Imaging Library 
+
+* Tkinter Framework
